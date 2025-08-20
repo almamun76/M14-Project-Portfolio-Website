@@ -13,14 +13,14 @@ This is a simple **Portfolio Website** built with **Laravel 12** and **Bootstrap
 
 ## Project Structure
 
-> app/Http/Controllers/PortfolioController.php
-> resources/views/layout/layout.blade.php
-> resources/views/portfolio/home.blade.php
-> resources/views/portfolio/about.blade.php
-> resources/views/portfolio/projects.blade.php
-> resources/views/portfolio/contact.blade.php
-> resources/views/portfolio/blog.blade.php
-> routes/web.php
+- app/Http/Controllers/PortfolioController.php
+- resources/views/layout/layout.blade.php
+- resources/views/portfolio/home.blade.php
+- resources/views/portfolio/about.blade.php
+- resources/views/portfolio/projects.blade.php
+- resources/views/portfolio/contact.blade.php
+- resources/views/portfolio/blog.blade.php
+- routes/web.php
 
 ## Webpage Screenshot
 
