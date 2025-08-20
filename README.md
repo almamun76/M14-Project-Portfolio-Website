@@ -35,7 +35,7 @@ This is a simple **Portfolio Website** built with **Laravel 12** and **Bootstrap
 > ![Blog page](public/assets/img/blog.jpg)
 
 ## How to Use
-1. Clone the repository
+1. Clone the repository (https://github.com/almamun76/M14-Project-Portfolio-Website.git)
 2. Install dependencies
 3. Serve the application (php artisan serve)
 4. Open your browser and visit http://127.0.0.1:8000
